@@ -21,6 +21,8 @@
 
 - [List of status codes and their meanings](https://httpstatuses.com/)
 
+- [The Flask Mega-Tutorial Part I: Hello, World!](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
 ## Concepts
 
 - [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
