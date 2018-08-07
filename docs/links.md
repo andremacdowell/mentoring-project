@@ -11,6 +11,7 @@
 ## Nicely written Web API Examples
 
 - [Kong API](https://docs.konghq.com/0.14.x/admin-api/)
+
 - [Zendesk API](https://developer.zendesk.com/rest_api/docs/core/introduction)
 
 ## Web APIs
@@ -36,6 +37,10 @@
 ## Tests
 
 - [Python + Unit Tests](https://github.com/andremacdowell/python-brasil-2016)
+
+- [The Absolute Beginner’s Guide to TDD](https://medium.com/@bethqiang/the-absolute-beginners-guide-to-test-driven-development-with-a-practical-example-c39e73a11631)
+
+- [A simple introduction to TDD with Python](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)
 
 ## Challenges
 
