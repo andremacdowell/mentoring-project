@@ -2,6 +2,34 @@
 
 - [Swift + Reactive Programming](https://medium.com/swift-programming/reactive-swift-3b6050375534)
 
+## Javascript Frameworks
+
+- [Stencil JS](https://stenciljs.com/)
+
+- [React JS](https://reactjs.org/)
+
+- [Vue JS](https://vuejs.org/)
+
+- [Polymer Project](https://www.polymer-project.org/)
+
+- [Web Components](https://www.webcomponents.org/)
+
+## PWAs
+
+- [What are PWAs](https://www.windowscentral.com/what-are-progressive-web-apps-video)
+
+- [4 points to keep in mind regarding PWAs](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011)
+
+- [Google Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
+
+## Frameworks Híbridos
+
+- [React Native](http://www.reactnative.com/)
+
+- [Ionic Framework](https://ionicframework.com)
+
+- [Hybrid Frameworks for Mobile APPs](https://blog.jscrambler.com/10-frameworks-for-mobile-hybrid-apps)
+
 ## Web Components
 
 - [Building UI in Enterprise Level EA + Polymer](https://www.youtube.com/watch?v=FJ2KEvzlyo4)
@@ -33,6 +61,8 @@
 - [Professionalism in Software Development](https://youtu.be/p0O1VVqRSK0)
 
 - [Regex](https://regexr.com/)
+
+- [PWAs](https://www.windowscentral.com/what-are-progressive-web-apps-video)
 
 ## Tests
 
