@@ -24,6 +24,8 @@
 
 ## Frameworks Híbridos
 
+- [Web Apps & Websites & Mobile Apps](https://eze.tech/blog/web-apps-turn-website-into-mobile-app/)
+
 - [React Native](http://www.reactnative.com/)
 
 - [Ionic Framework](https://ionicframework.com)
