@@ -56,6 +56,8 @@
 
 - [My First Flask App](https://flask-first-project-matheus.herokuapp.com/)
 
+- [API First](https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694)
+
 ## Concepts
 
 - [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
