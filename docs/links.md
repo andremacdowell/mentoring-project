@@ -40,7 +40,9 @@
 
 ## Nicely written Web API Examples
 
-- [Kong API](https://docs.konghq.com/0.14.x/admin-api/)
+- [Shopify Admin API](https://help.shopify.com/en/api/reference)
+
+- [Kong API](https://docs.konghq.com/0.14.x/admin-api)
 
 - [Zendesk API](https://developer.zendesk.com/rest_api/docs/core/introduction)
 
