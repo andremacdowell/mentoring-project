@@ -2,6 +2,10 @@
 
 - [Swift + Reactive Programming](https://medium.com/swift-programming/reactive-swift-3b6050375534)
 
+- [Swift for Windows (2018) - Learn Swift In Your Browser!](https://www.youtube.com/watch?v=7rIjwmgDBjE)
+
+- [Q&A: Can I Use a PC for iPhone App Development?](https://www.youtube.com/watch?v=nJIsB1bF1Wg)
+
 ## Javascript Frameworks
 
 - [Stencil JS](https://stenciljs.com/)
@@ -59,6 +63,10 @@
 - [My First Flask App](https://flask-first-project-matheus.herokuapp.com/)
 
 - [API First](https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694)
+
+- [IFTTT](https://ifttt.com/)
+
+- [ProgrammableWeb](https://www.programmableweb.com/)
 
 ## Concepts
 
