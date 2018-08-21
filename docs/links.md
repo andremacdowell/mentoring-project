@@ -60,7 +60,9 @@
 
 - [The Flask Mega-Tutorial Part I: Hello, World!](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
-- [My First Flask App](https://flask-first-project-matheus.herokuapp.com/)
+-- [Designing a RESTful API with Python and Flask](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+
+- [My First API](https://flask-first-project-matheus.herokuapp.com/api/v1.0/people)
 
 - [API First](https://medium.com/adobetech/three-principles-of-api-first-design-fa6666d9f694)
 
