@@ -40,6 +40,10 @@
 
 - [Hybrid Frameworks for Mobile APPs](https://blog.jscrambler.com/10-frameworks-for-mobile-hybrid-apps)
 
+## Front-end development
+
+- [From UI Toolkits to components](https://blog.hichroma.com/beyond-bootstrap-moving-from-ui-toolkit-to-component-library-f0a34f05e98b)
+
 ## Web Components
 
 - [Building UI in Enterprise Level EA + Polymer](https://www.youtube.com/watch?v=FJ2KEvzlyo4)
