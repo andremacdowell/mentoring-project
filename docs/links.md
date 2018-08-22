@@ -8,11 +8,15 @@
 
 ## Javascript Frameworks
 
-- [Stencil JS](https://stenciljs.com/)
-
 - [React JS](https://reactjs.org/)
 
 - [Vue JS](https://vuejs.org/)
+
+- [Svelte JS](https://svelte.technology/)
+
+## Web Components specific Frameworks
+
+- [Stencil JS](https://stenciljs.com/)
 
 - [Polymer Project](https://www.polymer-project.org/)
 
